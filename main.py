@@ -1,5 +1,5 @@
-from equation_utils import ELEMENTS,generate_equation_for_element,build_equations,my_solve
-from string_utils import split_before_uppercases,split_at_digit,count_atoms_in_molecule,parse_chemical_reaction,count_atoms_in_reaction
+from equation_utils import ELEMENTS, generate_equation_for_element, build_equations,my_solve
+from string_utils import split_before_uppercases, split_at_digit, count_atoms_in_molecule, parse_chemical_reaction, count_atoms_in_reaction
 from sympy import Eq, symbols, solve
 
 
